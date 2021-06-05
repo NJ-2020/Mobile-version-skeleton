@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio Project
+# My mobile version skeleton project for Microverse curriculumn.
 
 > My mobile version skeleton.
 
@@ -19,7 +19,7 @@ No Live Preview
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/NJ-2020)
+- GitHub: [@NJ-2020](https://github.com/NJ-2020)
 
 ## 🤝 Contributing
 
