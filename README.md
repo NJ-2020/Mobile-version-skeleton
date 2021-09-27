@@ -1,6 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# My mobile version skeleton project for Microverse curriculumn.
+# My mobile version skeleton project
 
 > My mobile version skeleton.
 
